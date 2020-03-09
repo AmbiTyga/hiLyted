@@ -34,4 +34,4 @@ Clone or download the repository <br>
 **Run** `package.sh` file as it will install necessary packages and directorys.<br>
 Run `python main.py` on console. <br>
 
-(Note: If video length/size is big then use colab/sagemaker. Provided `main.ipynb` for colab/sagemaker.)
+(Note: If video length/size is bigger then use colab/sagemaker. Provided `main.ipynb` for colab/sagemaker.)
