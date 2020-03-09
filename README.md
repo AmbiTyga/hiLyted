@@ -29,5 +29,9 @@ The energy or power of an audio signal refers to the loudness of the sound. It i
 - Extract the clip and store in the destination folder
 
 ## Testing 
-Clone or download the repository and **run** `package.sh` file as it will install necessary packages and directorys.<br>
-Run `python main.py` on console. 
+Clone or download the repository <br>
+
+**Run** `package.sh` file as it will install necessary packages and directorys.<br>
+Run `python main.py` on console. <br>
+
+(Note: If video length/size is big then use colab/sagemaker. Provided `main.ipynb` for colab/sagemaker.)
