@@ -4,11 +4,11 @@ This project is based on speech analysis. There are various audios which can be 
 Various methods:
  - NLP: We could have used the text from audio then summarised it to get important phrases and located those important phases in the video
  - Computer Vision: We could have used computer vision by locating important things on screen and storing those timeline.
-Cons of using above method:
+<br>Cons of using above method:
  - NLP: Extracting text from audio is quite exhaustive and the resultant phases may or may not be accurate which may cause to include noise data from the video
  - Computer Vision: Locating important things at particular interval is also quite exhaustive for the system. This could cause the loss of data
  
- ##My method:
+ ## My method:
  My method is based on simple speech analysis and short time energy of the sound.
  ### What is short time energy?
  An audio signal can be analyzed in the time or frequency domain. In the time domain, an audio signal is analyzed with respect to the time component, whereas in the frequency domain, it is analyzed with respect to the frequency component:
