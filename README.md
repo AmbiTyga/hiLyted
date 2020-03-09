@@ -4,7 +4,7 @@ This project is based on speech analysis. There are various audios which can be 
 Various methods:
  - NLP: We could have used the text from audio then summarised it to get important phrases and located those important phases in the video
  - Computer Vision: We could have used computer vision by locating important things on screen and storing those timeline.<br>
-Cons of using above method:
+<p>Cons of using above method:<\p>
  - NLP: Extracting text from audio is quite exhaustive and the resultant phases may or may not be accurate which may cause to include noise data from the video
  - Computer Vision: Locating important things at particular interval is also quite exhaustive for the system. This could cause the loss of data
  
