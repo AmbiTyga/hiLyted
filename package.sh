@@ -1,3 +1,3 @@
 mkdir dataset
 mkdir output
-pip install -r requirements.txt
+pip install -r ./Documents/requirements.txt
