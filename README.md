@@ -13,7 +13,7 @@ After cloning or downloading run following command in the console:<br>
  ### What is short time energy?
  An audio signal can be analyzed in the time or frequency domain. In the time domain, an audio signal is analyzed with respect to the time component, whereas in the frequency domain, it is analyzed with respect to the frequency component:
 
-![automatic highlight generation](Documents\image.jpg)
+![automatic highlight generation](./Documents/image.jpg)
 
 The energy or power of an audio signal refers to the loudness of the sound. It is computed by the sum of the square of the amplitude of an audio signal in the time domain. When energy is computed for a chunk of an entire audio signal, then it is known as Short Time Energy.
 ### Steps:
@@ -29,5 +29,5 @@ The energy or power of an audio signal refers to the loudness of the sound. It i
 - [Librosa-Python package for audio analysis](https://librosa.github.io/librosa/)
 - [Youtube-dl-For downloading videos](https://github.com/ytdl-org/youtube-dl)
 - [Simple Speech Analysis](https://towardsdatascience.com/beginners-guide-to-speech-analysis-4690ca7a7c05)
-- [Short time energy](Documents\Short_time_energy.pdf)
+- [Short time energy](./Documents/Short_time_energy.pdf)
 
